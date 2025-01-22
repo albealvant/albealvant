@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👩‍💻 ¡Hola, soy Alba! 🌟
 
-<!--
-**albealvant/albealvant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy una desarrolladora en formación cursando el segundo año del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** 🖥️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+- **Lenguajes de programación:**  
+  - Java ☕  
+  - Python 🐍  
+  - Kotlin 📱  
+
+- **Habilidades:**  
+  - Análisis y diseño de software.  
+  - Resolución de problemas con un enfoque lógico y creativo.  
+  - Trabajo en equipo y comunicación eficaz.
+
+---
+
+## 🌟 Sobre mí
+Soy una persona comprometida, con ganas de aprender y crecer continuamente en el mundo del desarrollo de software. Me encanta enfrentar desafíos que requieran creatividad y capacidad de adaptación. Además, disfruto colaborando con personas y creando proyectos que marquen la diferencia. 🌈
+
+---
+
+¡Gracias por pasarte por aquí! 🚀
