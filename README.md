@@ -18,7 +18,7 @@
 ---
 
 ## 🌟 Sobre mí
-Soy una persona comprometida, con ganas de aprender y crecer continuamente en el mundo del desarrollo de software. Me encanta enfrentar desafíos que requieran creatividad y capacidad de adaptación. Además, disfruto colaborando con personas y creando proyectos que marquen la diferencia. 🌈
+Soy una persona con ganas de aprender y crecer en el mundo del desarrollo de software. Me encanta enfrentar desafíos que requieran creatividad y capacidad de adaptación. Además, disfruto colaborando con personas y creando proyectos que marquen la diferencia. 🌈
 
 ---
 
